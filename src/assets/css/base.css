@@ -1,0 +1,14 @@
+
+
+/* :root->获取根元素html */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+:root{
+	--color-text:#666;
+	--color-high-text:#ff5777;
+	--color-background:#fff;
+	--line-height:1.5;
+}
